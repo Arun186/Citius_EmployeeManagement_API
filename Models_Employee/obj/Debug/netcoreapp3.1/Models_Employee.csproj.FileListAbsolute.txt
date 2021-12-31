@@ -1,0 +1,13 @@
+C:\Arun Folder\Employee_Management\Models_Employee\bin\Debug\netcoreapp3.1\Models_Employee.deps.json
+C:\Arun Folder\Employee_Management\Models_Employee\bin\Debug\netcoreapp3.1\Models_Employee.runtimeconfig.json
+C:\Arun Folder\Employee_Management\Models_Employee\bin\Debug\netcoreapp3.1\Models_Employee.runtimeconfig.dev.json
+C:\Arun Folder\Employee_Management\Models_Employee\bin\Debug\netcoreapp3.1\Models_Employee.dll
+C:\Arun Folder\Employee_Management\Models_Employee\bin\Debug\netcoreapp3.1\Models_Employee.pdb
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.csproj.AssemblyReference.cache
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.AssemblyInfoInputs.cache
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.AssemblyInfo.cs
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.csproj.CoreCompileInputs.cache
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.dll
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.pdb
+C:\Arun Folder\Employee_Management\Models_Employee\obj\Debug\netcoreapp3.1\Models_Employee.genruntimeconfig.cache
